@@ -1,0 +1,10 @@
+﻿  ManagedGridMap.cpp
+c:\users\pixir\desktop\college stuff\project_4th\2dplatformerlevelgenerator\include\dataloader.h(24): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\project_4th\2dplatformerlevelgenerator\include\dataloader.h(37): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\project_4th\2dplatformerlevelgenerator\include\dataloader.h(46): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\project_4th\2dplatformerlevelgenerator\include\graph.h(38): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\project_4th\2dplatformerlevelgenerator\src\managedgridmap.cpp(206): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\project_4th\2dplatformerlevelgenerator\src\managedgridmap.cpp(302): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\project_4th\2dplatformerlevelgenerator\src\managedgridmap.cpp(406): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  2DPlatformerLevelGenerator.vcxproj -> C:\Users\pixir\Desktop\College Stuff\Project_4th\2DPlatformerLevelGenerator\x64\Debug\2DPlatformerLevelGenerator.exe
+  2DPlatformerLevelGenerator.vcxproj -> C:\Users\pixir\Desktop\College Stuff\Project_4th\2DPlatformerLevelGenerator\x64\Debug\2DPlatformerLevelGenerator.pdb (Partial PDB)

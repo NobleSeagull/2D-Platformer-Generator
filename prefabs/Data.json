@@ -1,0 +1,15 @@
+{
+	"NoOfRooms": "5",
+	"Room0": {"Name": "blank_room", "FileName": "blank_room.json", "Difficulty": "1"},
+	"Room1": {"Name": "platf_room", "FileName": "platform_room.json", "Difficulty": "8"},
+	"Room2": {"Name": "thickWroom", "FileName": "thick_wall_room.json", "Difficulty": "6"},
+  "Room3": {"Name": "trap_room", "FileName": "trap_room.json", "Difficulty": "10"},
+  "Room4": {"Name": "coin_room", "FileName": "coin_room.json", "Difficulty": "5"},
+
+  "NoOfGoals": "1",
+  "Goal0":  {"Name":  "Elevated_Gate", "FileName": "elevated_gate.json", "Difficulty": "1"},
+
+  "NoOfPortals": "2",
+  "Port0": {"Name": "corridor", "FileName": "corridor.json", "Type": "1"},
+	"Port1": {"Name": "pit", "FileName": "pit.json", "Type": "2"}
+}
